@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432973561537",
+    "firebase_url": "https://smartchef-86676.firebaseio.com",
+    "project_id": "smartchef-86676",
+    "storage_bucket": "smartchef-86676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432973561537:android:0482a0dc4e1ee38849de40",
+        "android_client_info": {
+          "package_name": "com.example.smartchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432973561537-p5vq5e3c83q4tadn01ili1ohh2isv50u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartchef",
+            "certificate_hash": "903fb686a684b2296a5323dd85c76c8dfdaad20f"
+          }
+        },
+        {
+          "client_id": "432973561537-vqekqoibs3obc1ajit0p0kda15q87v4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqy0WQ-lYDSP3i59cIC9hj0DU61dDlINE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432973561537-vqekqoibs3obc1ajit0p0kda15q87v4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
