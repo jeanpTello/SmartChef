@@ -9,6 +9,9 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="main_tx_contra">Contraseña</string>
+    <string name="main_tx_usuario">Usuario o Correo</string>
+    <string name="main_tx_ingresar">Ingresar</string>
 
     <string-array name="paises">
         <item>Perú</item>
