@@ -9,4 +9,22 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="facebook_app_id">281131616433667</string>
+    <string name="fb_login_protocol_scheme">fb281131616433667</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="main_tx_usuario">Usuario o Correo</string>
+    <string name="main_tx_google">Sign in with Google</string>
+    <string name="main_tx_ingresar">Ingresar</string>
+    <string name="main_tx_contra">Contraseña</string>
+    <string name="main_smartchef">smartchef</string>
+    <string name="title_activity_registro">Registro</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_inicio">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
