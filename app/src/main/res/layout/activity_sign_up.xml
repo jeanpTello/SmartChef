@@ -10,7 +10,8 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="Registro de Usuarios"
+        android:textAlignment="center"/>
 
     <EditText
         android:id="@+id/edtUser"
@@ -64,4 +65,11 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="date" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrarse"
+        android:onClick="registrarse"/>
 </LinearLayout>
